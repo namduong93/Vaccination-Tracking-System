@@ -7,3 +7,5 @@ Warning: Must use Python3.8 and below
 pip install -r requirements.txt
 3. Start by looking at the help message
 python main.py -h
+
+For further information (Read G6.pdf)
